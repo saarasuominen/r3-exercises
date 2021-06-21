@@ -6,4 +6,4 @@ title: "Welcome"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello, Website!
+Hello, RStudio!
